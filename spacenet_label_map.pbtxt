@@ -1,0 +1,90 @@
+item {
+  id: 0
+  name: 'none_of_the_above'
+}
+
+item {
+  id: 1
+  name: 'building'
+}
+
+item {
+  id: 2
+  name: 'cable_distribution_cabinet'
+}
+
+item {
+  id: 3
+  name: 'catenary_mast'
+}
+
+item {
+  id: 4
+  name: 'compensator'
+}
+
+item {
+  id: 5
+  name: 'connection'
+}
+
+item {
+  id: 6
+  name: 'generator'
+}
+
+item {
+  id: 7
+  name: 'insulator'
+}
+
+item {
+  id: 8
+  name: 'plant'
+}
+
+item {
+  id: 9
+  name: 'pole'
+}
+
+item {
+  id: 10
+  name: 'portal'
+}
+
+item {
+  id: 11
+  name: 'station'
+}
+
+item {
+  id: 12
+  name: 'sub_station'
+}
+
+item {
+  id: 12
+  name: 'substation'
+}
+
+item {
+  id: 13
+  name: 'switch'
+}
+
+item {
+  id: 14
+  name: 'terminal'
+}
+
+item {
+  id: 15
+  name: 'tower'
+}
+
+item {
+  id: 16
+  name: 'transformer'
+}
+
